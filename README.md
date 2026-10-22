@@ -11,3 +11,6 @@ https://en.wikipedia.org/wiki/Life_Is_Strange_2
 - je
 - seznam
 - odrážek
+
+![LIS2rating](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532210/header.jpg?t=1771868183)
+
