@@ -6,3 +6,8 @@ moje oblíbená hra je Life Is Strange 2
 
 
 https://en.wikipedia.org/wiki/Life_Is_Strange_2
+
+- tohle
+- je
+- seznam
+- odrážek
